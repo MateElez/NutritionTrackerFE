@@ -1,0 +1,43 @@
+#form_registration {
+    background-color: #00000059;
+    border-radius: 20px;
+    padding: 20px;
+    backdrop-filter: blur(40px);
+   
+}
+h1{
+    color: white;
+}
+#input_reg1,
+#input_reg2,
+#input_reg3 {
+  width: 100%;
+  padding: 10px;
+  border-radius: 10px;
+  border: 0.3px solid rgba(255, 255, 255, 0.44);
+}
+#input_reg3 {
+  margin-left: -10px;
+}
+  
+#label1,
+#label2,
+#label3 {
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 10px;
+}
+  
+.button {
+  background-color: #ffffff;
+  color: rgb(0, 0, 0);
+  padding: 10px 20px;
+  border-radius: 12px ;
+  border: none;
+  margin-top: 30px;
+}
+p{
+    color: white;
+}

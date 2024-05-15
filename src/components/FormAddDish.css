@@ -1,0 +1,42 @@
+#container{
+    margin-bottom: 20px;
+    background-color: #00000071;
+    border-radius: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    backdrop-filter: blur(40px);
+    border: 1px solid white;
+    
+}
+
+.label {
+  display: block;
+  margin-bottom: 25px;
+  color: #ffffff;
+  font-size: 16px;
+}
+
+.select {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  border-radius: 12px;
+  border: 0, 5px solid white;
+  margin-bottom: 20px;
+  box-sizing: border-box;
+}
+
+.button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    border-radius: 12px;
+    border: none;
+    color: #fff;
+    background-color: #0056b1e6;
+    font-size: 16px;
+    margin-bottom: 15px;
+    box-sizing: border-box;
+  }

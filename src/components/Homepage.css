@@ -1,0 +1,49 @@
+.homePage{
+    display: flexbox;
+    width: 500px;
+}
+
+h1{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    margin-top: 0.5px;
+}
+#content1{
+    display: flexbox;
+    margin-bottom: 20px;
+    background-color: #00000071;
+    border-radius: 20px;
+    padding: 10px;
+    backdrop-filter: blur(40px);
+    border: 1px solid rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#meal{
+    color: white;
+}
+#content3{
+    
+    background-color: #85858571;
+    border-radius: 20px;
+    padding: 10px;
+    backdrop-filter: blur(40px);
+    border: 1px solid rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 0px;
+    
+}
+.list{
+    padding: 0;
+}
+#button{
+    background-color: #0056b1e6;
+    color: white;
+}
